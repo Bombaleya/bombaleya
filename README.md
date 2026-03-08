@@ -1,7 +1,6 @@
 ## Hi, I'm Akhmet. 
 
-BackEnd developer with technical stack: 
-TypeScript, Express.js, PostgreSQL, Prisma.
+BackEnd Golang developer with technical stack.
 
 <!--
 **Bombaleya/bombaleya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
