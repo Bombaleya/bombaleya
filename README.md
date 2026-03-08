@@ -1,6 +1,6 @@
 ## Hi, I'm Akhmet. 
 
-BackEnd Golang developer with technical stack.
+BackEnd Golang developer.
 
 <!--
 **Bombaleya/bombaleya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
